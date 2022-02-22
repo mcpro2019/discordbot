@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>MC_Pro_2019 Discord 機器人 Blog</title>
-        <link>https://mcpro2019.github.io/blog</link>
+        <link>https://mcpro2019.github.io/docs/blog</link>
         <description>MC_Pro_2019 Discord 機器人 Blog</description>
         <lastBuildDate>Mon, 21 Feb 2022 17:39:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[IDK]]></title>
-            <link>https://mcpro2019.github.io/blog/idk</link>
+            <link>https://mcpro2019.github.io/docs/blog/idk</link>
             <guid>idk</guid>
             <pubDate>Mon, 21 Feb 2022 17:39:17 GMT</pubDate>
             <description><![CDATA[IDK]]></description>
