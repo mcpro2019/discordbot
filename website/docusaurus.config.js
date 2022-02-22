@@ -9,7 +9,7 @@ const config = {
   title: 'MC_Pro_2019 Discord 機器人',
   tagline: '可能之後會改名:)',
   url: 'https://mcpro2019.github.io',
-  baseUrl: '/',
+  baseUrl: '/docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/icon.ico',
