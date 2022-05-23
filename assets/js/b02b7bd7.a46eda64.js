@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[717],{7790:function(s){s.exports=JSON.parse('{"label":"idk","permalink":"/discordbot/blog/tags/idk","allTagsPath":"/discordbot/blog/tags","count":1}')}}]);
